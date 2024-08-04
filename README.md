@@ -1,5 +1,5 @@
 <h1 align="center">
-  Dimas Abimanyu - v3
+  Dimas Ramadan Pangestu
 </h1>
 
 <p align="center"> 
@@ -13,7 +13,7 @@
   <a href="https://github.com/dimasabimanyy/v4" target="_blank">v4</a>
 </p>
 
-![Website Screenshot](https://raw.githubusercontent.com/dimasabimanyy/v3/master/images/homepage-ss.png)
+![Website Screenshot](https://telegra.ph/file/89abc7b2bf50e10cbc67a.jpg)
 
 ## What I used
 - [Visual Studio Code](https://code.visualstudio.com/) my ride-or-die
